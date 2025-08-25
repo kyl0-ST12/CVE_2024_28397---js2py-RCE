@@ -21,10 +21,15 @@ Edita las variables en el script para adaptarlas a tu entorno:
 
 Ejecuta el script:
 
-```python send_payload.py```
+```bash
+python send_payload.py
+```
 
------
 
 # Advertencia
 
 Este script es solo para fines educativos y pruebas autorizadas. No uses este código en sistemas sin permiso explícito.
+
+# Payload creado por 
+
+https://github.com/advisories/GHSA-r9pp-r4xf-597r
