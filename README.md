@@ -22,7 +22,7 @@ Edita las variables en el script para adaptarlas a tu entorno:
 Ejecuta el script:
 
 ```bash
-python send_payload.py
+python3 CVE-2024-28397.py
 ```
 
 
